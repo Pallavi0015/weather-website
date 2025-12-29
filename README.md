@@ -1,28 +1,36 @@
-#  Weather Forecast Script
+# 🌤️ Weather Dashboard
 
-A Python-based tool developed to fetch and display live weather details for any city in the world. This project demonstrates my skills in API integration and handling real-time data.
+A clean and responsive weather application that provides real- +time weather data for cities worldwide. This project focuses on API integration and modern CSS layouts.
 
-##  Project Overview
-The **Weather Forecast Script** connects to a weather API to retrieve current conditions such as temperature, humidity, and weather descriptions. It is a practical example of how Python can be used to interact with web services.
+**🔗 Live Demo:** [View Website](https://pallavi0015.github.io/weather-website/)
 
-##  Tech Stack
-- **Language:** Python 
-- **Libraries:** Requests (for API calls), JSON (for data parsing)
-- **Tools:** VS Code
+---
 
-##  Key Features
-- **Live Data:** Fetches real-time weather information.
-- **User Input:** Allows users to search for weather by city name.
-- **Error Handling:** Designed to manage invalid city names or connection issues.
+## ✨ Features
 
-##  Preview
+* **Real-time Data:** Fetches live temperature, humidity, and wind speed using the OpenWeatherMap API.
+* **Dynamic Search:** Instantly update weather details by searching for any city.
+* **Responsive Design:** Fully optimized for mobile, tablet, and desktop screens.
+* **Visual Icons:** Displays weather-specific icons (sun, clouds, rain) based on current conditions.
 
-<img width="741" height="315" alt="image" src="https://github.com/user-attachments/assets/09a5478b-0a47-4d99-89cb-a945b2cb6f14" />
+---
 
-<img width="622" height="383" alt="image" src="https://github.com/user-attachments/assets/c575196a-7a40-45e7-b9dd-0897dddaee38" />
+## 🛠️ Built With
 
-<img width="571" height="543" alt="image" src="https://github.com/user-attachments/assets/a036184e-39f3-4ddf-a184-22fa12b353a8" />
+* **HTML5:** Semantic structure for better SEO and accessibility.
+* **CSS3:** Custom styling with Flexbox/Grid and Google Fonts integration.
+* **JavaScript (ES6):** Fetch API for asynchronous data handling and DOM manipulation.
 
-## Website Link
+---
 
-https://pallavi0015.github.io/weather-website/
+## 📖 How to Use
+1. Clone the repository.
+2. Open `index.html` in your browser.
+3. Enter a city name in the search bar.
+4. View the live weather report instantly!
+
+---
+
+## 👤 Author
+**Pallavisri** * GitHub: [@pallavi0015](https://github.com/pallavi0015)  
+* LinkedIn: https://www.linkedin.com/in/s-pallavisri-348204355/
