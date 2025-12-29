@@ -1,12 +1,12 @@
-# 🌤️ Weather Dashboard
+#  Weather Dashboard
 
 A clean and responsive weather application that provides real- +time weather data for cities worldwide. This project focuses on API integration and modern CSS layouts.
 
-**🔗 Live Demo:** [View Website](https://pallavi0015.github.io/weather-website/)
+** Live Demo:** [View Website](https://pallavi0015.github.io/weather-website/)
 
 ---
 
-## ✨ Features
+##  Features
 
 * **Real-time Data:** Fetches live temperature, humidity, and wind speed using the OpenWeatherMap API.
 * **Dynamic Search:** Instantly update weather details by searching for any city.
@@ -15,7 +15,7 @@ A clean and responsive weather application that provides real- +time weather dat
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 * **HTML5:** Semantic structure for better SEO and accessibility.
 * **CSS3:** Custom styling with Flexbox/Grid and Google Fonts integration.
@@ -23,7 +23,7 @@ A clean and responsive weather application that provides real- +time weather dat
 
 ---
 
-## 📖 How to Use
+##  How to Use
 1. Clone the repository.
 2. Open `index.html` in your browser.
 3. Enter a city name in the search bar.
@@ -31,6 +31,6 @@ A clean and responsive weather application that provides real- +time weather dat
 
 ---
 
-## 👤 Author
+##  Author
 **Pallavisri** * GitHub: [@pallavi0015](https://github.com/pallavi0015)  
 * LinkedIn: https://www.linkedin.com/in/s-pallavisri-348204355/
